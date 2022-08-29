@@ -1,0 +1,26 @@
+main {
+    min-height: 80vh;
+}
+
+h3 {
+    padding: 1rem 0;
+}
+
+h1 {
+    font-size: 1.8rem;
+    padding: 1rem 0;
+}
+
+/* h2 {
+    font-size: 1.4rem;
+    padding: 0.5rem 0;
+} */
+.btn-sm:hover {
+    color: #343a40 !important;
+    background-color: #ced4da !important;
+    border-radius: 1px !important;
+}
+
+.rating span {
+    margin: 0.01rem;
+}
